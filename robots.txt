@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eufejeivei.scottmangiapane.com/sitemap.xml
